@@ -4,16 +4,16 @@
  */
 
 export const siteConfig = {
-  name: "홍길동",
-  nameEn: "Gildong Hong",
+  name: "김철수",
+  nameEn: "Cheolsu Kim",
   role: "소프트웨어 엔지니어",
-  tagline: "웹과 자동화를 좋아하는 개발자입니다.",
+  tagline: "말로 시키면 만들어지는 웹을 만듭니다.",
   intro:
-    "사용자에게 실제로 쓸모 있는 제품을 만드는 데 관심이 많습니다. 프론트엔드부터 배포·운영까지 전 과정을 직접 다루며, 복잡한 문제를 단순한 구조로 정리하는 일을 즐깁니다.",
+    "비전공자도 따라 할 수 있는 바이브코딩으로 웹사이트를 만들고 있습니다.",
   location: "서울, 대한민국",
   email: "hello@example.com",
   siteUrl: "https://example.com",
-  avatarInitials: "홍",
+  avatarInitials: "김",
 
   links: [
     { label: "GitHub", href: "https://github.com/your-id" },
