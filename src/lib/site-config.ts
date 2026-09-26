@@ -4,8 +4,8 @@
  */
 
 export const siteConfig = {
-  name: "김철수",
-  nameEn: "Cheolsu Kim",
+  name: "만세진",
+  nameEn: "Sejin Man",
   role: "소프트웨어 엔지니어",
   tagline: "말로 시키면 만들어지는 웹을 만듭니다.",
   intro:
@@ -13,7 +13,7 @@ export const siteConfig = {
   location: "서울, 대한민국",
   email: "hello@example.com",
   siteUrl: "https://example.com",
-  avatarInitials: "김",
+  avatarInitials: "만",
 
   links: [
     { label: "GitHub", href: "https://github.com/your-id" },
